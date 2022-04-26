@@ -19,7 +19,7 @@
     "react-hook-form": "^7.12.2",
     "react-map-gl": "^6.1.16",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.3",
+    "react-scripts": "5.0.0",
     "recharts": "^2.1.0",
     "rooks": "^5.6.0",
     "urql": "^2.0.4",
